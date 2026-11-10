@@ -1,6 +1,6 @@
-# ProdClub 的 ChatGPT 开通指南：推广码怎么用，订单出问题找谁？
+# ProdClub 的 ChatGPT 开通指南：优惠码怎么用，订单出问题找谁？
 
-**先看推广码应用到你选的报价后，实际应付多少。** ProdClub 是第三方商户，收款、开通和售后都由商户处理。本站集中展示当前推广码和入口，打开后请核对浏览器地址栏里的商户域名为 `prodclub.ai`。[获取当前推广码和商户入口](https://rottentothebone.github.io/chatgpt-subscription-guide/#partner)
+**先看优惠码应用到你选的报价后，实际应付多少。** ProdClub 是第三方商户，收款、开通和售后都由商户处理。本站集中展示当前优惠码和入口，打开后请核对浏览器地址栏里的商户域名为 `prodclub.ai`。[获取当前优惠码和商户入口](https://rottentothebone.github.io/chatgpt-subscription-guide/#partner)
 
 ## 付款前核对什么？
 

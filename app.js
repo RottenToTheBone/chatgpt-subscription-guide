@@ -9,7 +9,7 @@
   button.addEventListener("click", async () => {
     try {
       await navigator.clipboard.writeText(code.textContent.trim());
-      status.textContent = "推广码已复制。";
+      status.textContent = "优惠码已复制。";
       return;
     } catch {
       // File previews and restricted browsers may only support copying from a selection.
@@ -21,12 +21,12 @@
     selection.addRange(range);
     try {
       if (document.execCommand("copy")) {
-        status.textContent = "推广码已复制。";
+        status.textContent = "优惠码已复制。";
         return;
       }
     } catch {
       // A manual copy works even when the browser denies clipboard access.
     }
-    status.textContent = "推广码已选中，请手动复制。";
+    status.textContent = "优惠码已选中，请手动复制。";
   });
 })();

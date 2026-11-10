@@ -2,7 +2,7 @@
 
 想用支付宝给自己的 ChatGPT 账号开通会员，可以先在 ProdClub 看对应套餐的报价。跟着下面的图文走一遍，就能找到优惠价、确认开通条件，并知道付款后去哪里查订单。
 
-> **[打开 ProdClub 优惠入口][prodclub-offer]**　推广码 <code data-promo-code>JY63M4</code>
+> **[打开 ProdClub 优惠入口][prodclub-offer]**　优惠码 <code data-promo-code>JY63M4</code>
 
 本指南由 RottenToTheBone 独立维护。我们是推广者，通过链接成交可能获得奖励。商品、收款和售后由第三方商户 ProdClub 提供。[阅读网页版](https://rottentothebone.github.io/chatgpt-subscription-guide/)
 
@@ -21,7 +21,7 @@
 
 ### 第二步 · 打开优惠入口，选择报价
 
-1. **[打开 ProdClub 优惠入口][prodclub-offer]。** 检查地址栏里的域名是 `prodclub.ai`。当前推广码是 <code data-promo-code>JY63M4</code>。选中具体商品后，再看结算金额是否已应用优惠。
+1. **[打开 ProdClub 优惠入口][prodclub-offer]。** 检查地址栏里的域名是 `prodclub.ai`。当前优惠码是 <code data-promo-code>JY63M4</code>。选中具体商品后，再看结算金额是否已应用优惠。
 2. **选 Plus 或 Pro。** 例如，要给自己的账号开一个月 Plus，就找到列明「ChatGPT Plus」和「1 个月」的报价。买 Pro 时还要核对具体档位。商品列表里的接码服务另有用途，订阅会员应选择对应的套餐报价。
 
 ![ProdClub 商品总览，可在列表中找到 Plus 和 Pro 报价](assets/tutorial-overview.webp)
@@ -54,7 +54,7 @@
 
 **开通要等多久，失败后怎么办？** 商户将通常处理时间写为 1 至 2 分钟，额外验证或人工处理可能更久。已扣款却一直没有结果，请保留订单号向 ProdClub 查询，尚未开通时，也可查看原订单是否显示退款按钮。[商户开通与退款说明](https://prodclub.ai/help)
 
-**推广码能便宜多少？可以用微信吗？** 通过[优惠入口][prodclub-offer]选定商品后，再对比同档、同期限的最终金额。商户帮助页列出的人民币支付方式为支付宝，其他方式请以该订单的付款页为准。[商户付款说明](https://prodclub.ai/help)
+**优惠码能便宜多少？可以用微信吗？** 通过[优惠入口][prodclub-offer]选定商品后，再对比同档、同期限的最终金额。商户帮助页列出的人民币支付方式为支付宝，其他方式请以该订单的付款页为准。[商户付款说明](https://prodclub.ai/help)
 
 **Plus 和 Pro 怎么选？** 每周读一些文件、做几次编程任务，可以先看 Plus。已有套餐多次在同一类任务上碰到限额，再比较 Pro 各档给这种任务增加了多少用量。[Plus 与 Pro 选购指南](guides/compare-plans.md)
 
@@ -67,7 +67,7 @@ ProdClub 提供 ChatGPT 自有账号订阅代充等服务，报价页列出交�
 <details>
 <summary>维护推广入口</summary>
 
-修改 `site-config.js` 后，运行 `node tools/partner.cjs` 同步 README 和网页，再运行 `npm ci`、`npm run build`。教程截图和视频记录了当时的报价与推广码，换码时应一并更新实拍素材。
+修改 `site-config.js` 后，运行 `node tools/partner.cjs` 同步 README 和网页，再运行 `npm ci`、`npm run build`。教程截图和视频记录了当时的报价与优惠码，换码时应一并更新实拍素材。
 
 </details>
 
