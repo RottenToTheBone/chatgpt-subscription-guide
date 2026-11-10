@@ -6,8 +6,11 @@ const root = fs.realpathSync(path.resolve(__dirname, ".."));
 const output = path.join(root, "dist");
 const base = "https://rottentothebone.github.io/chatgpt-subscription-guide/";
 const slugs = ["compare-plans", "payment-and-renewal", "prodclub-referral"];
-const assets = ["article.css", "DM-Sans-OFL.txt", "favicon.svg", "font.css", "hero-pass.webp", "social-preview.png"];
-const publicFiles = ["index.html", "app.js", "site-config.js", "styles.css", ...assets.map((name) => "assets/" + name)];
+const assets = [
+  "article.css", "favicon.svg", "social-preview.png", "tutorial-overview.webp", "tutorial-offer.webp",
+  "prodclub-walkthrough.mp4", "walkthrough-zh.vtt",
+];
+const publicFiles = ["index.html", "app.js", "styles.css", ...assets.map((name) => "assets/" + name)];
 const md = new MarkdownIt({ html: false });
 const escape = md.utils.escapeHtml;
 
@@ -66,7 +69,7 @@ function renderArticle(article, articles) {
     description,
     inLanguage: "zh-CN",
     mainEntityOfPage: url,
-    author: { "@type": "Organization", name: "Planport 订阅航站", url: base },
+    author: { "@type": "Person", name: "RottenToTheBone", url: "https://github.com/RottenToTheBone" },
   };
   const related = articles.filter((other) => other.slug !== slug).map((other) =>
     `<li><a href="${other.slug}.html">${escape(other.title)} <span aria-hidden="true">→</span></a></li>`).join("\n");
@@ -75,11 +78,11 @@ function renderArticle(article, articles) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>${escape(title)} · Planport 订阅航站</title>
+  <title>${escape(title)} · ProdClub 开通指南</title>
   <meta name="description" content="${escape(description)}">
   <link rel="canonical" href="${url}">
   <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Planport 订阅航站">
+  <meta property="og:site_name" content="ProdClub 开通指南">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:title" content="${escape(title)}">
   <meta property="og:description" content="${escape(description)}">
@@ -87,19 +90,14 @@ function renderArticle(article, articles) {
   <meta property="og:image" content="${base}assets/social-preview.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Planport 的 Plus 和 Pro 订阅通行证插画">
+  <meta property="og:image:alt" content="ProdClub 的 ChatGPT Plus 与 Pro 订阅开通教程">
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../assets/font.css">
-  <link rel="stylesheet" href="../styles.css">
   <link rel="stylesheet" href="../assets/article.css">
   <script type="application/ld+json">${JSON.stringify(metadata).replace(/</g, "\\u003c")}</script>
 </head>
 <body class="article-page">
   <a class="skip" href="#article">跳到正文</a>
-  <header class="site-header"><div class="wrap article-header-row">
-    <a class="brand" href="../index.html" aria-label="Planport 订阅航站首页"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span lang="en">Planport</span><span class="brand-cn">订阅航站</span></a>
-    <a class="quiet-link" href="../index.html">返回首页 <span aria-hidden="true">↗</span></a>
-  </div></header>
+  <header class="article-header-row"><a href="../index.html">← ProdClub 开通指南</a></header>
   <main class="article-wrap" id="article" tabindex="-1">
     <article><h1>${escape(title)}</h1>${content}</article>
     <nav class="related-guides" aria-label="继续阅读"><h2>继续阅读</h2><ul>${related}</ul></nav>

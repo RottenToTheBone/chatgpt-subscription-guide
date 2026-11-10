@@ -2,4 +2,5 @@
 module.exports = {
   promotionUrl: "https://prodclub.ai/r/JY63M4",
   promotionCode: "JY63M4",
+  networkUrl: "https://api-flowercloud.com/aff.php?aff=27706",
 };
