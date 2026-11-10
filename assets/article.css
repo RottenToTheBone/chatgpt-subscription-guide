@@ -1,0 +1,25 @@
+.article-header-row { min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.article-wrap { width: min(100% - 40px, 760px); margin: 0 auto; padding: clamp(38px, 7vw, 84px) 0 60px; }
+.article-wrap h1 { margin: 0 0 30px; max-width: 19em; font-size: clamp(34px, 5vw, 58px); line-height: 1.17; letter-spacing: -.045em; overflow-wrap: anywhere; text-wrap: balance; }
+.article-wrap article { font-size: clamp(16px, 1.55vw, 18px); line-height: 1.9; overflow-wrap: anywhere; }
+.article-wrap article > p:first-of-type { border-left: 3px solid var(--orange); padding-left: 16px; font-size: 1.075em; }
+.article-wrap article p, .article-wrap li + li { margin-top: .85em; }
+.article-wrap article h2 { margin: 1.6em 0 .4em; font-size: clamp(24px, 3vw, 32px); }
+.article-wrap article ul, .article-wrap article ol { padding-left: 1.5em; }
+.article-wrap article a, .related-guides a { text-decoration: underline; text-underline-offset: .2em; text-decoration-color: #91a297; }
+.article-wrap a:hover { text-decoration-color: var(--ink); }
+.article-wrap code { font: .93em var(--mono); }
+.table-scroll { margin-block: 1.5em; overflow-x: auto; background: #fcfbf5; border: 1px solid var(--line); border-radius: 8px; }
+.table-scroll table { width: 100%; min-width: 35rem; border-collapse: collapse; text-align: left; line-height: 1.6; font-size: .94em; }
+.table-scroll th, .table-scroll td { padding: 12px 16px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.table-scroll th { background: #e8ede3; white-space: nowrap; }
+.table-scroll tbody tr:last-child td { border-bottom: 0; }
+.related-guides { display: block; margin: 48px 0 0; border-top: 1px solid var(--line); padding-top: 24px; }
+.related-guides h2 { font-size: 1.3rem; }
+.related-guides ul { margin: 12px 0 0; padding: 0; list-style: none; }
+.related-guides li + li { margin-top: 0; }
+.related-guides a { display: inline-block; padding: 8px 0; white-space: normal; }
+@media (max-width: 520px) {
+  .article-header-row { min-height: 62px; }
+  .article-wrap { width: calc(100% - 36px); }
+}

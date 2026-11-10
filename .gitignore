@@ -1,0 +1,5 @@
+.qa/
+*.zip
+node_modules/
+dist/
+CODE_REVIEW.md
