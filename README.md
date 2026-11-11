@@ -1,75 +1,198 @@
-# ProdClub · ChatGPT Plus / Pro 开通指南
+<p align="center">
+  <img src="logo.png" width="64" />
+</p>
 
-想用支付宝给自己的 ChatGPT 账号开通会员，可以先在 ProdClub 看对应套餐的报价。跟着下面的图文走一遍，就能找到优惠价、确认开通条件，并知道付款后去哪里查订单。
+<h1 align="center">ProdClub</h1>
 
-> **[打开 ProdClub 优惠入口][prodclub-offer]**　优惠码 <code data-promo-code>JY63M4</code>
+<p align="center">让每一笔 AI 资源交易，都更直接、透明、可信。</p>
 
-本指南由 RottenToTheBone 独立维护。我们是推广者，通过链接成交可能获得奖励。商品、收款和售后由第三方商户 ProdClub 提供。[阅读网页版](https://rottentothebone.github.io/chatgpt-subscription-guide/)
+<p align="center"><i>愿有一天，信息不再有围墙，知识不再有距离。</i></p>
 
-## 视频教程
+---
 
-第一次使用，可以先看网页中的操作演示，再回来对照图文。演示里的价格和商品库存可能随时变化。[观看开通演示](https://rottentothebone.github.io/chatgpt-subscription-guide/#video)
+最好的 AI 已经来了，但很多人被挡在一张信用卡外面。
+
+ProdClub 想做的事很简单：
+把这道墙拆掉，让你用支付宝，把 ChatGPT 会员开到**自己的账号**上。
+
+不卖号，不合租，不做没法质保的生意。
+只把一件小事，做到足够好。
+
+**ProdClub：做产品的人做的代充。只接能质保的单，开通进度实时可见，没开通随时退。**
+
+**ProdClub 提供售后，质保与升级退差价按各报价的条款办理。**
+
+> 优惠开通：[ProdClub / JY63M4](https://prodclub.ai/r/JY63M4)
+
+
+# ProdClub · GPT 订阅开通指南
+
+**如果你需要使用 GPT，但手里没有用来支付订阅费用的信用卡**
+
+**那这篇教程可以解决你的问题！！**
+
+## 宣传视频
+
+[![ProdClub 宣传片](videos/cover.jpg)](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4)
+
+**ProdClub 宣传片** · [1080p](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4) · [4K](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film-4k.mp4)
+
+[![ProdClub 预告片](videos/teaser-cover.jpg)](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4)
+
+**ProdClub 预告片** · [1080p](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4) · [4K](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser-4k.mp4)
 
 ## 图文教程
 
-### 第一步 · 准备自己的账号和邮箱
+**废话不多说，教程开始**
 
-先登录你打算升级的 ChatGPT 账号，记下当前套餐。再准备一个能收邮件的邮箱，商户会把订单链接发到这里。已经开过会员的话，先检查原订阅的到期日和续费状态，避免为同一段时间重复付款。[支持的国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) · [查看已有订阅](guides/payment-and-renewal.md)
+## 第一步：准备资料
 
-网络访问可以用这个注册入口先开一下（我常用）：<br>
-[FlowerCloud 注册入口][network-offer]（推广链接）
+首先你需要自己准备一个自己的账号，勿买卖他人账号。
 
-### 第二步 · 打开优惠入口，选择报价
+需能正常访问 ChatGPT 官网，具体网络环境请自行依法合规解决，本文不讨论。
 
-1. **[打开 ProdClub 优惠入口][prodclub-offer]。** 检查地址栏里的域名是 `prodclub.ai`。当前优惠码是 <code data-promo-code>JY63M4</code>。选中具体商品后，再看结算金额是否已应用优惠。
-2. **选 Plus 或 Pro。** 例如，要给自己的账号开一个月 Plus，就找到列明「ChatGPT Plus」和「1 个月」的报价。买 Pro 时还要核对具体档位。商品列表里的接码服务另有用途，订阅会员应选择对应的套餐报价。
+网络访问可以用这个注册入口先开一下（我常用）：
 
-![ProdClub 商品总览，可在列表中找到 Plus 和 Pro 报价](assets/tutorial-overview.webp)
+https://api-flowercloud.com/aff.php?aff=27706
 
-3. **看清条款，再提交订单。** 在报价页对照套餐、购买期限、应付总额和售后天数。尤其留意提前失效时如何处理、退款有什么条件。填好接收订单邮件的邮箱，确认无误后再提交。
+注册后按需选择套餐：装好客户端 → 选个节点连上 → 能打开 ChatGPT 官网即可。后面再按需续。
 
-![ProdClub 报价详情，付款前核对套餐、金额和售后说明](assets/tutorial-offer.webp)
 
-4. **到订单页付款。** 商户公开帮助列出了支付宝，部分商品另列 USDT。以这一单实际显示的付款方式和应付金额为准。支付后保留订单号和收据。如果已经扣款而页面仍在等待，先联系商户核对，避免再次扫码。[商户付款说明](https://prodclub.ai/help)
-5. **注意账号凭据。** 商户说明，自有账号开通在付款后会要求提交 ChatGPT Session。这是一段能让持有者以你的身份访问账号的登录凭据。请在决定付款前了解这一要求。希望自己保管登录凭据的用户，可以直接选择官方订阅。[ChatGPT 官方套餐](https://chatgpt.com/pricing/)
-6. **确认开通成功。** 先看原订单的处理结果，再回到自己的 ChatGPT 账号，在设置中核对套餐。若订单显示完成，账号仍是原套餐，先核对登录账号，再带上订单号向商户查询。订单邮件请自己保存。
+## 第二步：开通
 
-## 订单帮助与 Codex 重置雷达
+#### 打开专属优惠链接，注意使用优惠码 JY63M4
 
-忘了订单页地址，可以先在下单邮箱里搜索 ProdClub。付款进度、退款和售后问题看商户帮助；要查 Codex 额度重置相关公告，商户另设了雷达页面。[ProdClub 帮助中心](https://prodclub.ai/help) · [Codex 重置雷达](https://prodclub.ai/radar)
+https://prodclub.ai/r/JY63M4
 
-## 常见问题
+打开后，你看到的是这个界面就对了「注意：升级我们是能给你退差价的，一定要联系客服」
 
-**什么是 Session？交给商户安全吗？** Session 是登录后的会话凭据，拿到的人可能以你的身份访问账号。商户的自有账号报价要求付款后交一次 Session，希望只由自己保管凭据的读者可以选择官方订阅。[商户说明](https://prodclub.ai/help) · [官方套餐](https://chatgpt.com/pricing/)
+![](original-assets/main-offers.png)
 
-**掉订阅和账号封禁都在售后范围内吗？** 商户将订阅提前失效与账号封禁分别处理。购买前看具体报价的保障期限、赔付方式和除外条件，不能从“有售后”推断账号一定不会受限。[商户售后说明](https://prodclub.ai/help)
+#### 2.选择你需要的，以 Pro 5x 为例
 
-**代充、成品号和合租有什么区别？** 自有账号代充会把订阅开到你现有的账号上，买成品号会拿到卖家交付的另一个账号，合租则是多人共用一个账号。需要保留自己原有对话时，先核对报价的交付方式。[报价与订单核对指南](guides/prodclub-referral.md)
+例子中是原始价格
 
-**哪些账号可以开？什么情况要等到期？** 商户当前的 Plus 月度报价要求账号为免费版，已有 Plus 无法通过该报价提前叠加。Pro 5x 月度报价接受免费账号或已有菲区 Plus 的账号，其他地区 Plus 按商户帮助说明要等到期后再买。[Plus 报价](https://prodclub.ai/offers/chatgpt-plus-1m) · [Pro 5x 报价](https://prodclub.ai/offers/chatgpt-pro-5x-1m)
+![](original-assets/JRmubpZxQoqsmJx7ES2ckF14nhd.jpg)
 
-**“菲区”指什么？** 商户用这个词标记经菲律宾地区渠道开通的订阅，现有订阅的地区会影响能否通过指定报价升级。你所在地区能否使用 ChatGPT，请另查 OpenAI 公布的国家和地区列表。[商户说明](https://prodclub.ai/help) · [OpenAI 支持地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)
+#### 3.提交
 
-**可以开发票吗？** 商户帮助页写明，需选择带“可开发票”标记的报价，开通后联系商户办理。商户目前说明会另收开票金额的 5%，需要报销时请在付款前确认总成本。[商户开票说明](https://prodclub.ai/help)
+![](original-assets/Gf5Lb9sK3oj4dnx9bQcc3PCQnZc.jpg)
 
-**开通要等多久，失败后怎么办？** 商户将通常处理时间写为 1 至 2 分钟，额外验证或人工处理可能更久。已扣款却一直没有结果，请保留订单号向 ProdClub 查询，尚未开通时，也可查看原订单是否显示退款按钮。[商户开通与退款说明](https://prodclub.ai/help)
+注意这里的售后条款
 
-**优惠码能便宜多少？可以用微信吗？** 通过[优惠入口][prodclub-offer]选定商品后，再对比同档、同期限的最终金额。商户帮助页列出的人民币支付方式为支付宝，其他方式请以该订单的付款页为准。[商户付款说明](https://prodclub.ai/help)
+一定要填入你的邮箱，用于接收订单号，也可以作为一个凭证，用于售后
 
-**Plus 和 Pro 怎么选？** 每周读一些文件、做几次编程任务，可以先看 Plus。已有套餐多次在同一类任务上碰到限额，再比较 Pro 各档给这种任务增加了多少用量。[Plus 与 Pro 选购指南](guides/compare-plans.md)
+然后点提交
+
+#### 4.付款
+
+![](original-assets/TGBtbIekAorMrIxK0eZcLMSwnud.jpg)
+
+#### 5. 账号确认
+
+核对要开通的账号。Session 是登录凭据，请勿转交。
+
+#### 6.开通成功
+
+会出现检查账号页面，稍等一下就好，出现这个页面就是完全开通了，去看下自己的账号是不是已经有了会员。
+
+![](original-assets/L1yQb8K3Uo3Nw5xe9kDcXVBenHf.jpg)
+
+## 答疑：
+
+如果你有其他疑问可以直接去帮助查看
+
+![](original-assets/help.png)
+
+## 重置雷达
+
+OpenAI 会不定期把所有付费用户的 Codex 额度重置一次，或者发一张重置卡。这里盯着公告，有消息就更新。
+
+![](original-assets/radar.png)
+
+## 答疑：
+
+### 代充会不会封号？
+
+账号状态以 OpenAI 的实际处理为准。
+
+封号多半和用法有关：用越狱提示词（俗称「破甲」）等违反 OpenAI 使用条款的方式、一个账号几个人共用。这类原因导致的封号不在售后范围内。
+
+订阅本身在售后期内掉了，带上订单号联系客服，按报价的「售后条款」处理。
+
+### 什么是 Session？
+
+Session 是登录凭据，持有者可能以你的身份访问账号。
+
+### GPT 代充靠谱吗？怎么判断？
+
+代充就是请别人替你付 ChatGPT 的订阅费。靠不靠谱，看三件事：
+
+- 充到哪个账号：我们开通到你自己的 ChatGPT 账号上，不给新号、不和别人共用，聊天记录和设置都还在。
+- 要不要密码：请保管好自己的密码和登录凭据。
+- 出了问题找谁：每条报价写明售后天数，售后期内掉了订阅按「售后条款」处理；付了款还没开通、不想要了，订单页上可以申请退款。
+
+不用注册，支付宝扫码付款，开通结果实时显示在订单页上。
+
+### 代充、成品号、合租有什么区别？
+
+三种都能用上 ChatGPT 会员，差别在账号是谁的：
+
+- 代充：会员开通到你自己的账号上。账号、聊天记录、设置都是你的，到期了接着续。我们做的是这一种。
+- 成品号：卖家给你一个已经开好会员的新账号。原来账号里的聊天记录用不上，注册信息不在你手里，可能被原注册人找回。
+- 合租：几个人共用一个会员账号。聊天记录彼此看得到，用量大家一起分，一人违规可能连累整个号。
+
+在意隐私、要长期用的，代充最省心。
+
+### 「开通方式」有什么区别？
+
+报价上会写明开通方式：
+
+- 自有账号开通：开通到你自己的 ChatGPT 账号。
+- 接码：Codex 专用，给你一个美国 +1 号码，用来收 Codex 的短信验证码。
+
+### 「菲区」是什么意思？需要挂菲律宾节点吗？
+
+- 「菲区」指充值走的是菲律宾地区，开通后的订阅和在官网直接订阅没有区别。
+- 使用地区以 [ChatGPT 支持的国家和地区](https://help.openai.com/en/articles/7947663) 为准。
+
+### 可以开发票吗？
+
+- 带「可开发票」标记的报价可以开。开通成功后联系客服开票，另收开票金额 5% 的税点。没有这个标记的报价暂时不能开票。
+
+### 开通要多久？没开通成功怎么办？
+
+通常一两分钟，结果会自动显示在订单页，不用刷新。途中偶尔需要你完成一次安全验证，按页面提示做完，开通会自动继续。
+
+开通没成功时，回订单页查看原因；需要售后时可凭订单号联系客服。
+
+### 可以开的号
+
+1. 免费账号（现在没有订阅）：Plus、Pro 都能开。
+2. 菲区（菲律宾区付费）的 Plus，可以直接升级到 Pro，不用等到期。升级后联系客服可以退 Plus 的差价，原来的 Plus 不是在这里买的也可以退。（ 走 USDT 付款不能升级 Pro，只能免费账号开）
+
+### 暂时开不了的号
+
+1. 已经有订阅，还想开 Plus：Plus 只能开在免费账号上，不能叠加，也不能提前续。等现在的订阅到期、账号变回免费版再买。
+2. 其他地区付费的 Plus 想升级 Pro：比如美区。只有菲区的订阅能升级，其他地区的要等到期。
+3. 已经是 Pro，而且档位不低于要买的：没有更高的档位可以升级。
+4. iOS（App Store）订阅到期后苹果可能还有一段宽限期（一般 72h），这段时间账号显示免费版也开不了，要等宽限期结束。
+5. 团队 / 企业账号（Team、Business、Enterprise）：开不了个人订阅，请换个人账号。
 
 ## 关于 ProdClub
 
-ProdClub 提供 ChatGPT 自有账号订阅代充等服务，报价页列出交付方式和售后条款，订单页用于跟进开通进度。本仓库由独立推广者维护，订单查询和退款请联系实际收款的商户。[ProdClub 帮助中心](https://prodclub.ai/help)
+ProdClub 由一群做互联网产品的人发起。我们发现，GPT 代充这个行业最大的问题不是价格，而是不透明：不知道充到哪、出了问题找不到人、页面看着就不靠谱。
 
-资料核对日期为 2026 年 11 月 10 日。如果商户界面或规则有变化，欢迎附上公开页面反馈；私人订单请直接联系商户。[提交资料更正](https://github.com/RottenToTheBone/chatgpt-subscription-guide/issues)
+所以我们按做产品的标准来做这件事：
 
-<details>
-<summary>维护推广入口</summary>
+- 少即是多：没法质保的业务一律不接，宁可少卖
+- 过程透明：开通进度在订单页实时显示，不用等客服回消息
+- 规则写在前面：售后天数、能开和不能开的号，下单前就讲清楚
 
-修改 `site-config.js` 后，运行 `node tools/partner.cjs` 同步 README 和网页，再运行 `npm ci`、`npm run build`。教程截图和视频记录了当时的报价与优惠码，换码时应一并更新实拍素材。
+我们希望 ProdClub 成为你身边那个“问了就知道靠谱”的名字。
 
-</details>
+[ProdClub 客服](https://prodclub.ai/help)
 
-[prodclub-offer]: https://prodclub.ai/r/JY63M4
-[network-offer]: https://api-flowercloud.com/aff.php?aff=27706
+<p align="center">
+  <img src="testimonials.jpg" alt="原版展示的 ProdClub 平台评价：ProdClub UI 做得特别好、流程丝滑、比代充更专业" width="100%" />
+</p>
