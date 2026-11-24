@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="logo.png" width="64" />
+  <img src="logo.png" width="68" alt="ProdClub Logo" />
 </p>
 
 <h1 align="center">ProdClub</h1>
 
-<p align="center">让每一笔 AI 资源交易，都更直接、透明、可信。</p>
+<p align="center"><strong>让每一笔 AI 资源交易，都更直接、透明、可信。</strong></p>
 
 <p align="center"><i>愿有一天，信息不再有围墙，知识不再有距离。</i></p>
+
+<p align="center">
+  <a href="https://prodclub.ai/r/JY63M4"><strong>优惠开通（码：JY63M4）</strong></a> ·
+  <a href="https://rottentothebone.github.io/chatgpt-subscription-guide/">网页版指南</a> ·
+  <a href="#宣传视频">宣传视频</a> ·
+  <a href="#图文教程">图文教程</a> ·
+  <a href="#常见问题">常见问题</a>
+</p>
 
 ---
 
@@ -20,10 +28,11 @@ ProdClub 想做的事很简单：
 
 **ProdClub：做产品的人做的代充。只接能质保的单，开通进度实时可见，没开通随时退。**
 
-**ProdClub 提供售后，质保与升级退差价按各报价的条款办理。**
+**我们承诺：全程质保，升级退差价，服务全流程。**
 
-> 优惠开通：[ProdClub / JY63M4](https://prodclub.ai/r/JY63M4)
+> 专属优惠开通：[ProdClub / JY63M4](https://prodclub.ai/r/JY63M4)
 
+---
 
 # ProdClub · GPT 订阅开通指南
 
@@ -33,19 +42,36 @@ ProdClub 想做的事很简单：
 
 ## 宣传视频
 
-[![ProdClub 宣传片](videos/cover.jpg)](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4)
+先看一遍宣传片，再对照下面的图文流程操作。
 
-**ProdClub 宣传片** · [1080p](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4) · [4K](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film-4k.mp4)
-
-[![ProdClub 预告片](videos/teaser-cover.jpg)](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4)
-
-**ProdClub 预告片** · [1080p](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4) · [4K](https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser-4k.mp4)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4">
+        <img src="videos/cover.jpg" alt="ProdClub 宣传片" width="100%" />
+      </a>
+      <br />
+      <strong>ProdClub 宣传片</strong> ·
+      <a href="https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-film.mp4">1080p 原版</a> ·
+      <a href="https://github.com/RottenToTheBone/chatgpt-subscription-guide/releases/download/media-v1/prodclub-film-4k.mp4">4K 原版</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4">
+        <img src="videos/teaser-cover.jpg" alt="ProdClub 预告片" width="100%" />
+      </a>
+      <br />
+      <strong>ProdClub 预告片</strong> ·
+      <a href="https://rottentothebone.github.io/chatgpt-subscription-guide/videos/prodclub-teaser.mp4">1080p 原版</a> ·
+      <a href="https://github.com/RottenToTheBone/chatgpt-subscription-guide/releases/download/media-v1/prodclub-teaser-4k.mp4">4K 原版</a>
+    </td>
+  </tr>
+</table>
 
 ## 图文教程
 
 **废话不多说，教程开始**
 
-## 第一步：准备资料
+### 第一步：准备资料
 
 首先你需要自己准备一个自己的账号，勿买卖他人账号。
 
@@ -57,10 +83,9 @@ https://api-flowercloud.com/aff.php?aff=27706
 
 注册后按需选择套餐：装好客户端 → 选个节点连上 → 能打开 ChatGPT 官网即可。后面再按需续。
 
+### 第二步：开通
 
-## 第二步：开通
-
-#### 打开专属优惠链接，注意使用优惠码 JY63M4
+#### 1. 打开专属优惠链接，注意使用优惠码 `JY63M4`
 
 https://prodclub.ai/r/JY63M4
 
@@ -68,39 +93,51 @@ https://prodclub.ai/r/JY63M4
 
 ![](original-assets/main-offers.png)
 
-#### 2.选择你需要的，以 Pro 5x 为例
+#### 2. 选择你需要的套餐，以 Pro 5x 为例
 
 例子中是原始价格
 
 ![](original-assets/JRmubpZxQoqsmJx7ES2ckF14nhd.jpg)
 
-#### 3.提交
+#### 3. 提交订单
 
 ![](original-assets/Gf5Lb9sK3oj4dnx9bQcc3PCQnZc.jpg)
 
-注意这里的售后条款
+- 注意这里的售后条款
+- 一定要填入你的邮箱，用于接收订单号，也可以作为一个凭证，用于售后
+- 然后点提交
 
-一定要填入你的邮箱，用于接收订单号，也可以作为一个凭证，用于售后
-
-然后点提交
-
-#### 4.付款
+#### 4. 付款
 
 ![](original-assets/TGBtbIekAorMrIxK0eZcLMSwnud.jpg)
 
-#### 5. 账号确认
+#### 5. 提交 Session
 
-核对要开通的账号。Session 是登录凭据，请勿转交。
+登录 GPT 后，进入：
 
-#### 6.开通成功
+[chatgpt.com/api/auth/session](https://chatgpt.com/api/auth/session)
+
+**注意：这个 Session 很长，占满一页都是正常的**
+
+![](original-assets/GzBFbJHxmoza49xGapzceVcGnxd.jpg)
+
+把那个页面显示的内容整段复制（电脑上按 `Ctrl+A` 全选再复制，Mac 是 `⌘A`），粘贴到订单页：
+
+![](original-assets/Qx96bE4MKoNQ4gxUn4Dcug1anHe.jpg)
+
+![](original-assets/NESgbG2v0or8W1xwYtJcOYEDn7g.jpg)
+
+#### 6. 开通成功
 
 会出现检查账号页面，稍等一下就好，出现这个页面就是完全开通了，去看下自己的账号是不是已经有了会员。
 
 ![](original-assets/L1yQb8K3Uo3Nw5xe9kDcXVBenHf.jpg)
 
-## 答疑：
+---
 
-如果你有其他疑问可以直接去帮助查看
+## 帮助中心
+
+如果你有其他疑问可以直接去 [帮助中心](https://prodclub.ai/help) 查看：
 
 ![](original-assets/help.png)
 
@@ -110,27 +147,32 @@ OpenAI 会不定期把所有付费用户的 Codex 额度重置一次，或者发
 
 ![](original-assets/radar.png)
 
-## 答疑：
+---
+
+## 常见问题
 
 ### 代充会不会封号？
 
-账号状态以 OpenAI 的实际处理为准。
+正常使用不会。开通到你账号上的是正规订阅，和在官网直接订阅没有区别。
 
 封号多半和用法有关：用越狱提示词（俗称「破甲」）等违反 OpenAI 使用条款的方式、一个账号几个人共用。这类原因导致的封号不在售后范围内。
 
 订阅本身在售后期内掉了，带上订单号联系客服，按报价的「售后条款」处理。
 
-### 什么是 Session？
+### 什么是 Session？怎么拿到？
 
-Session 是登录凭据，持有者可能以你的身份访问账号。
+Session 是你登录 ChatGPT 后浏览器里的一段登录凭据，我们用它把服务开通到你的账号上，不需要你的密码。按下面两步复制：
+
+1. 在浏览器里登录 ChatGPT，然后打开这个链接：[chatgpt.com/api/auth/session](https://chatgpt.com/api/auth/session)
+2. 把那个页面显示的内容整段复制（电脑上按 `Ctrl+A` 全选再复制，Mac 是 `⌘A`），付款后粘贴到订单页
 
 ### GPT 代充靠谱吗？怎么判断？
 
 代充就是请别人替你付 ChatGPT 的订阅费。靠不靠谱，看三件事：
 
-- 充到哪个账号：我们开通到你自己的 ChatGPT 账号上，不给新号、不和别人共用，聊天记录和设置都还在。
-- 要不要密码：请保管好自己的密码和登录凭据。
-- 出了问题找谁：每条报价写明售后天数，售后期内掉了订阅按「售后条款」处理；付了款还没开通、不想要了，订单页上可以申请退款。
+- **充到哪个账号**：我们开通到你自己的 ChatGPT 账号上，不给新号、不和别人共用，聊天记录和设置都还在。
+- **要不要密码**：不要。付款后交一次 Session（登录凭据），开通一完成就删掉。
+- **出了问题找谁**：每条报价写明售后天数，售后期内掉了订阅按「售后条款」处理；付了款还没开通、不想要了，订单页上可以申请退款。
 
 不用注册，支付宝扫码付款，开通结果实时显示在订单页上。
 
@@ -138,9 +180,9 @@ Session 是登录凭据，持有者可能以你的身份访问账号。
 
 三种都能用上 ChatGPT 会员，差别在账号是谁的：
 
-- 代充：会员开通到你自己的账号上。账号、聊天记录、设置都是你的，到期了接着续。我们做的是这一种。
-- 成品号：卖家给你一个已经开好会员的新账号。原来账号里的聊天记录用不上，注册信息不在你手里，可能被原注册人找回。
-- 合租：几个人共用一个会员账号。聊天记录彼此看得到，用量大家一起分，一人违规可能连累整个号。
+- **代充**：会员开通到你自己的账号上。账号、聊天记录、设置都是你的，到期了接着续。我们做的是这一种。
+- **成品号**：卖家给你一个已经开好会员的新账号。原来账号里的聊天记录用不上，注册信息不在你手里，可能被原注册人找回。
+- **合租**：几个人共用一个会员账号。聊天记录彼此看得到，用量大家一起分，一人违规可能连累整个号。
 
 在意隐私、要长期用的，代充最省心。
 
@@ -148,13 +190,13 @@ Session 是登录凭据，持有者可能以你的身份访问账号。
 
 报价上会写明开通方式：
 
-- 自有账号开通：开通到你自己的 ChatGPT 账号。
-- 接码：Codex 专用，给你一个美国 +1 号码，用来收 Codex 的短信验证码。
+- **自有账号开通**：开通到你自己的 ChatGPT 账号，付款后交一次 Session。
+- **接码**：Codex 专用，给你一个美国 +1 号码，用来收 Codex 的短信验证码。
 
 ### 「菲区」是什么意思？需要挂菲律宾节点吗？
 
 - 「菲区」指充值走的是菲律宾地区，开通后的订阅和在官网直接订阅没有区别。
-- 使用地区以 [ChatGPT 支持的国家和地区](https://help.openai.com/en/articles/7947663) 为准。
+- 使用时不需要菲律宾节点，任何地区的节点都可以，正常使用不会因为 IP 地区不一致被封号。
 
 ### 可以开发票吗？
 
@@ -164,12 +206,12 @@ Session 是登录凭据，持有者可能以你的身份访问账号。
 
 通常一两分钟，结果会自动显示在订单页，不用刷新。途中偶尔需要你完成一次安全验证，按页面提示做完，开通会自动继续。
 
-开通没成功时，回订单页查看原因；需要售后时可凭订单号联系客服。
+开通没成功时，订单会退回让你重新提交 Session；自动流程走不下去会转人工，钱已经付了，我们会核对处理。有任何疑问，带上订单号联系客服。
 
 ### 可以开的号
 
 1. 免费账号（现在没有订阅）：Plus、Pro 都能开。
-2. 菲区（菲律宾区付费）的 Plus，可以直接升级到 Pro，不用等到期。升级后联系客服可以退 Plus 的差价，原来的 Plus 不是在这里买的也可以退。（ 走 USDT 付款不能升级 Pro，只能免费账号开）
+2. 菲区（菲律宾区付费）的 Plus，可以直接升级到 Pro，不用等到期。升级后联系客服可以退 Plus 的差价，原来的 Plus 不是在这里买的也可以退。（走 USDT 付款不能升级 Pro，只能免费账号开）
 
 ### 暂时开不了的号
 
@@ -179,20 +221,22 @@ Session 是登录凭据，持有者可能以你的身份访问账号。
 4. iOS（App Store）订阅到期后苹果可能还有一段宽限期（一般 72h），这段时间账号显示免费版也开不了，要等宽限期结束。
 5. 团队 / 企业账号（Team、Business、Enterprise）：开不了个人订阅，请换个人账号。
 
+---
+
 ## 关于 ProdClub
 
 ProdClub 由一群做互联网产品的人发起。我们发现，GPT 代充这个行业最大的问题不是价格，而是不透明：不知道充到哪、出了问题找不到人、页面看着就不靠谱。
 
 所以我们按做产品的标准来做这件事：
 
-- 少即是多：没法质保的业务一律不接，宁可少卖
-- 过程透明：开通进度在订单页实时显示，不用等客服回消息
-- 规则写在前面：售后天数、能开和不能开的号，下单前就讲清楚
+- **少即是多**：没法质保的业务一律不接，宁可少卖
+- **过程透明**：开通进度在订单页实时显示，不用等客服回消息
+- **规则写在前面**：售后天数、能开和不能开的号，下单前就讲清楚
 
 我们希望 ProdClub 成为你身边那个“问了就知道靠谱”的名字。
 
-[ProdClub 客服](https://prodclub.ai/help)
+已服务 10000+ 位用户 · 客服微信：`prodclubAI` · 客服 QQ：`2663113162`
 
 <p align="center">
-  <img src="testimonials.jpg" alt="原版展示的 ProdClub 平台评价：ProdClub UI 做得特别好、流程丝滑、比代充更专业" width="100%" />
+  <img src="testimonials.jpg" alt="客户真实评价：ProdClub UI 做得特别好、流程丝滑、比代充更专业" width="100%" />
 </p>
